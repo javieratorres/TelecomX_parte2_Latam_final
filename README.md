@@ -52,7 +52,7 @@ Este proyecto fue desarrollado utilizando Python y las siguientes librerías:
 
 ---
 
-# 🔎 Proceso de Análisis
+#  Proceso de Análisis
 
 El proyecto se desarrolló siguiendo las etapas principales de un flujo de trabajo de Ciencia de Datos:
 
@@ -154,4 +154,4 @@ Estudiante de **Data Science**, interesada en análisis de datos, machine learni
 
 ---
 
-⭐ Si te interesa este proyecto o quieres colaborar, ¡no dudes en contactarme!
+ Si te interesa este proyecto o quieres colaborar, ¡no dudes en contactarme!
