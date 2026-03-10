@@ -1,6 +1,6 @@
-# 📊 Telecom X – Análisis de Cancelación de Clientes (Churn)
+#  Telecom X – Análisis de Cancelación de Clientes (Churn)
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar y predecir la cancelación de clientes (Churn) en una empresa ficticia de telecomunicaciones llamada **Telecom X**.
 
@@ -10,7 +10,7 @@ A través de técnicas de **análisis exploratorio de datos y modelos de Machine
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
 * Analizar el comportamiento de los clientes y detectar patrones asociados al abandono.
 * Identificar las variables que más influyen en la cancelación de clientes.
@@ -19,7 +19,7 @@ A través de técnicas de **análisis exploratorio de datos y modelos de Machine
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 El dataset contiene información sobre clientes de la empresa Telecom X, incluyendo variables relacionadas con:
 
@@ -40,7 +40,7 @@ Variable objetivo:
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+#  Tecnologías Utilizadas
 
 Este proyecto fue desarrollado utilizando Python y las siguientes librerías:
 
@@ -56,13 +56,13 @@ Este proyecto fue desarrollado utilizando Python y las siguientes librerías:
 
 El proyecto se desarrolló siguiendo las etapas principales de un flujo de trabajo de Ciencia de Datos:
 
-### 1️⃣ Limpieza y preparación de datos
+### 1. Limpieza y preparación de datos
 
 * Tratamiento de valores faltantes
 * Conversión de variables categóricas
 * Estandarización de variables numéricas
 
-### 2️⃣ Análisis exploratorio de datos (EDA)
+### 2. Análisis exploratorio de datos (EDA)
 
 Se analizaron relaciones entre variables clave y la cancelación de clientes mediante:
 
@@ -79,7 +79,7 @@ Ejemplo de análisis realizado:
 
 ---
 
-### 3️⃣ Construcción de modelos predictivos
+### 3. Construcción de modelos predictivos
 
 Se implementaron dos modelos de Machine Learning:
 
@@ -93,7 +93,7 @@ Modelo basado en árboles de decisión que permite capturar relaciones complejas
 
 ---
 
-# 📈 Evaluación de Modelos
+#  Evaluación de Modelos
 
 Para evaluar el desempeño de los modelos se utilizaron las siguientes métricas:
 
@@ -107,7 +107,7 @@ Estas métricas permiten analizar tanto la precisión general del modelo como su
 
 ---
 
-# 📊 Principales Resultados
+#  Principales Resultados
 
 El análisis de importancia de variables mostró que los factores más influyentes en la cancelación de clientes son:
 
@@ -121,7 +121,7 @@ Los clientes con **menor antigüedad, mayor costo mensual y contratos más flexi
 
 ---
 
-# 💡 Estrategias de Retención Propuestas
+#  Estrategias de Retención Propuestas
 
 Basándose en los resultados del análisis, se sugieren las siguientes estrategias:
 
@@ -134,7 +134,7 @@ Estas acciones podrían ayudar a reducir la tasa de cancelación y mejorar la re
 
 ---
 
-# 🚀 Posibles Mejoras Futuras
+#  Posibles Mejoras Futuras
 
 * Implementar modelos adicionales como:
 
@@ -146,7 +146,7 @@ Estas acciones podrían ayudar a reducir la tasa de cancelación y mejorar la re
 
 ---
 
-# 👩‍💻 Autor
+#  Autor
 
 **Javiera Torres**
 
